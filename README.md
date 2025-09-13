@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Yuyu 👋</h1>
+<h1 align="center">Hi there! I'm Yu 👋</h1>
 <p align="center">Computing Science student @ University of Alberta</p>
 
 <p align="center">From <b><fionawyu></b> ❤️</p>
