@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Yu 👋</h1>
 <p align="center">Computing Science student @ University of Alberta</p>
 
-<p align="center">──── ❤️ ────<br/>From <b>fionayuwu</b><br/>──── ❤️ ────</p>
+<p align="center">──── ❤️ ────<br/>From <b>fionawyu</b><br/>──── ❤️ ────</p>
 
 <!-- Visitors -->
 <p align="center">
